@@ -1,7 +1,7 @@
 package clients
 
 import (
-	"log"
+	log "github.com/sirupsen/logrus"
 	"sync"
 
 	"github.com/Azure/go-autorest/autorest"
